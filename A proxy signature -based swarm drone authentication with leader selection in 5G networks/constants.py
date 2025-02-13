@@ -1,0 +1,16 @@
+dt = 0.01
+size_agents = 10
+k = 100
+w_wall = 40
+w_cohesion = 40 #30
+w_avoidance = 150*2
+w_distribute = 70
+w_alignment = 20
+w_follow = 80
+v_factor = 0.05
+avoidance_radius = 30
+distribute_radius = 50
+collision_radius = 12
+wall_threshold = 30
+center_r = 50
+w_center = 5
